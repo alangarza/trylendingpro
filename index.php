@@ -178,7 +178,7 @@
                                                 <input type="hidden" name="utm-params" value="">
                                                 <!--single form panel-->
                                                 <div class="multisteps-form__panel    js-active" data-animation="slideHorz" id="step-1">
-                                                    <h3 class="multisteps-form__title">Do You Qualify For Debt Consolidation today?</h3>
+                                                    <h3 class="multisteps-form__title">Do You Qualify For Debt Consolidation?</h3>
                                                     <ul>
                                                         <li style="font-weight: 600;">
                                                             <i class="fas fa-chevron-right"></i>Must have <span style="color: #0c5e98;">$25,000+ in credit card debt</span> to apply
