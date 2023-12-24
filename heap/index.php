@@ -130,7 +130,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-2">
-                        <img class="img-fluid logo" src="images/logo.png" alt="logo">
+                        <img class="img-fluid logo" src="images/offermatch.svg" alt="logo">
                     </div>
                     <div class="progressbarMain">
                         <div class="progress-bar-wrapper">
