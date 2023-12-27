@@ -570,6 +570,7 @@
             }
             $(".multisteps-form__form").submit(function(e) {
                 e.preventDefault()
+                var formData = $(".multisteps-form__form").serialize();
                 let rawPhone = $("input[name='phone']").val()
                 let email = $("input[name='email']").val()
                 let phone = rawPhone.replace(/[^0-9]/g, '')
@@ -584,10 +585,11 @@
                     }
                     if (emailReg.test(email)) {
                         $(".loading-wrapper").css("display", "flex")
+                        formData = formData.replace(/(phone=)[^&]*/, '$1' + phone);
                         $.ajax({
                             url: "https://services.leadconnectorhq.com/hooks/2G3QLQioAYgTzyM4xonb/webhook-trigger/740e38e6-9116-4e81-b144-d8836c28cc4b",
                             method: "GET",
-                            data: $(".multisteps-form__form").serialize(),
+                            data: formData,
                             success: function(data) {
                                 console.log(data)
                                 $(".loading-wrapper").css("display", "none")
