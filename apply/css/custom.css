@@ -11,10 +11,10 @@ body,html{
 .multisteps-form__panel h3{
 	text-align: center;
 }
-/* .custmHd{
+.custmHd{
 	padding: 3px 0;
-	border-bottom: 5px solid #0c5e98;
-} */
+	border-bottom: 5px solid #00b775;
+}
 .logo{
 	height: 50px;
 }

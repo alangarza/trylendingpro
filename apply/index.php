@@ -4,11 +4,19 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <link rel="icon" href="images/favicon.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+        <link rel="manifest" href="/images/site.webmanifest">
+        <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="/images/favicon.ico">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-config" content="/images/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/index.css?v=1.10" type="text/css" />
         <link rel="stylesheet" href="css/custom.css" type="text/css" />
-        <title>Horizons Lending</title>
+        <title>Offermatch</title>
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
         <style type="text/css">
@@ -123,7 +131,6 @@
                 }
             }
         </style>
-       
     </head>
     <body>
         <header class="custmHd">
@@ -431,7 +438,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p>Copyright 2023 Horizons Lending © All Right Reserved</p>
+                        <p>Copyright 2023 Offermatch © All Right Reserved</p>
                     </div>
                 </div>
             </div>
@@ -578,21 +585,13 @@
                     if (emailReg.test(email)) {
                         $(".loading-wrapper").css("display", "flex")
                         $.ajax({
-                            url: "ajaxSubmit.php",
-                            method: "POST",
+                            url: "https://services.leadconnectorhq.com/hooks/2G3QLQioAYgTzyM4xonb/webhook-trigger/740e38e6-9116-4e81-b144-d8836c28cc4b",
+                            method: "GET",
                             data: $(".multisteps-form__form").serialize(),
                             success: function(data) {
                                 console.log(data)
                                 $(".loading-wrapper").css("display", "none")
-                                // swal({
-                                //   title: "Congratulations!",
-                                //   text: "You’ve just taken the first step towards consolidating your debt and becoming debt free. One of our certified debt specialists will be contacting you shortly to complete your free quote and answer any questions you may have. For immediate assistance, please call us at (800) 756 - 0862",
-                                //   icon: "success",
-                                //   button: "Okay",
-                                // })
-                                // .then((value) => {
                                 window.location.href = "thank-you.php";
-                                // });
                             }
                         })
                     } else {

@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="css/index.css" type="text/css" />
         <link rel="stylesheet" href="css/custom.css" type="text/css" />
         <link rel="stylesheet" href="css/thank-you.css" type="text/css" />
-        <title>Horizons Lending</title>
+        <title>Offermatch</title>
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
         <style type="text/css">
@@ -123,7 +123,7 @@
                 box-sizing: border-box;
                 padding: 40px;
                 border-radius: 12px;
-                background: #0c5e98;
+                background: #008711;
                 -webkit-box-shadow: 0px 20px 48px rgb(0 0 0 / 20%);
                 box-shadow: 0px 20px 48px rgb(0 0 0 / 20%);
                 text-align: center;
@@ -196,27 +196,13 @@
                 }
             }
         </style>
-       
-        <!-- Google tag (gtag.js) - Google Analytics
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-242081442-1"></script> -->
-        <!-- <script>
-            window.dataLayer = window.dataLayer || [];
-
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
-            gtag('config', 'UA-242081442-1');
-        </script> -->
-        <!-- <noscript> Please ensure Javascript is enabled for purposes of <a href="https://userway.org">website accessibility</a>
-        </noscript> -->
     </head>
     <body>
         <header class="custmHd">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-2">
-                        <img class="img-fluid logo" src="images/logo.png" alt="logo">
+                        <img class="img-fluid logo" src="images/offermatch.svg" alt="logo">
                     </div>
                     <div class="progressbarMain">
                         <div class="progress-bar-wrapper">
@@ -242,74 +228,6 @@
             </div>
             <!-- <div class="slidemenu show-mobile"><div class="slideMenuinr"><ul><li><a id="nav-login" class="nav-auth-button" href="#">Login</a></li><li><a id="nav-signup" class="nav-auth-button" href="#">Sign Up</a></li></ul></div></div> -->
         </header>
-        <!-- Facebook Pixel Code -->
-        <!-- <script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window,document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
- fbq('init', '1044795625871184'); 
-fbq('track', 'Purchase');
-</script><noscript><img height="1" width="1" 
-src="https://www.facebook.com/tr?id=1044795625871184&ev=Purchase
-&noscript=1"/></noscript> -->
-        <!-- End Facebook Pixel Code -->
-        <!-- Meta Pixel Code -->
-        <!-- <script>
-            ! function(f, b, e, v, n, t, s) {
-                if (f.fbq) return;
-                n = f.fbq = function() {
-                    n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-                };
-                if (!f._fbq) f._fbq = n;
-                n.push = n;
-                n.loaded = !0;
-                n.version = '2.0';
-                n.queue = [];
-                t = b.createElement(e);
-                t.async = !0;
-                t.src = v;
-                s = b.getElementsByTagName(e)[0];
-                s.parentNode.insertBefore(t, s)
-            }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '762949838292127');
-            fbq('track', 'Lead');
-        </script>
-        <noscript>
-            <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=762949838292127&ev=Lead&noscript=1" />
-        </noscript> -->
-        <!-- End Meta Pixel Code -->
-        <!-- Taboola Pixel Code -->
-        <!-- <script type='text/javascript'>
-            window._tfa = window._tfa || [];
-            window._tfa.push({
-                notify: 'event',
-                name: 'page_view'
-            });
-            ! function(t, f, a, x) {
-                if (!document.getElementById(x)) {
-                    t.async = 1;
-                    t.src = a;
-                    t.id = x;
-                    f.parentNode.insertBefore(t, f);
-                }
-            }(document.createElement('script'), document.getElementsByTagName('script')[0], 'https://cdn.taboola.com/libtrc/unip/1496008/tfa.js', 'tb_tfa_script');
-        </script>
-        <noscript>
-            <img src="https://trc.taboola.com/1496008/log/3/unip?en=page_view" width="0" height="0" style="display:none" />
-        </noscript>
-        <script>
-            _tfa.push({
-                notify: 'event',
-                name: 'lead',
-                id: 1496008
-            });
-        </script> -->
-        <!-- End of Taboola Pixel Code -->
         <div class="mainContent">
             <div class="col-md-6 m-auto d-flex align-items-center hghtmng">
                 <div class="blckBx">

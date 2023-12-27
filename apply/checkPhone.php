@@ -2,7 +2,7 @@
 if (isset($_REQUEST['phone'])) {
     $phone = $_REQUEST['phone'];
 
-    $key = '';
+    $key = 'wt0COGfe54vjPdyha0wEQGH7N4opZ6yQ';
 
     $countries = array('US', 'CA');
 
@@ -13,9 +13,9 @@ if (isset($_REQUEST['phone'])) {
     $formatted_parameters = http_build_query($parameters);
 
     $url = sprintf(
-        'https://www.ipqualityscore.com/api/json/phone/%s/%s?%s', 
+        'https://www.ipqualityscore.com/api/json/phone/%s/%s?%s',
         $key,
-        $phone, 
+        $phone,
         $formatted_parameters
     );
 
