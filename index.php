@@ -176,11 +176,14 @@
       </div>
       <div data-delay="4000" data-animation="slide" class="testimonial-slider w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="true" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
         <div class="testimonial-mask w-slider-mask">
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Sylvia.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Michele.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Tammie.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Peggy.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Rachel.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Lewis.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Gary.png" loading="lazy" alt="" class="image-2"></div>
+
         </div>
         <div class="testimonial-left-arrow w-slider-arrow-left">
           <div class="icon-large w-embed"><svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
