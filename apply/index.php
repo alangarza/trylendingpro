@@ -187,9 +187,9 @@
                                                 <div class="multisteps-form__panel    js-active" data-animation="slideHorz" id="step-1">
                                                     <h3 class="multisteps-form__title">Do You Qualify For Debt Consolidation?</h3>
                                                     <ul>
-                                                        <li style="font-weight: 600;">
+                                                        <!-- <li style="font-weight: 600;">
                                                             <i class="fas fa-chevron-right"></i>Must have <span style="color: #0c5e98;">$25,000+ in credit card debt</span> to apply
-                                                        </li>
+                                                        </li> -->
                                                         <li>
                                                             <i class="fas fa-chevron-right"></i>One Low Monthly Payment
                                                         </li>
@@ -199,9 +199,9 @@
                                                         <li>
                                                             <i class="fas fa-chevron-right"></i>No Upfront Fees and No Obligation
                                                         </li>
-                                                        <li style="color: #ff0000;">
+                                                        <!-- <li style="color: #ff0000;">
                                                             <i class="fas fa-chevron-right"></i>Does Not Apply For Car Loans &amp; Student Loans
-                                                        </li>
+                                                        </li> -->
                                                     </ul>
                                                     <div class="multisteps-form__content">
                                                         <div class="form-row mt-4">
@@ -230,7 +230,7 @@
                                                 <!-- COPIA LAS 3 PRIMERAS LINEAS, EL STEP-2 REPRESENTA CUAL PASO ES, Y LO IMPORTANTE ACA ES QUE CAMBIES EL NUMERO, POR EJEMPLO, DIGAMOS QUE QUIERES AGREGAR EL STEP 7, ENTONCES COPIAS ESAS 3 LINEAS Y MODIFICAS EL STEP PARA QUE SEA STEP-7
                                                 EN LA LINEA 490 ESTA EL SIGUIENTE CODIGO -> "if (idDiv < 7) {" , LO PUSE ENTRE COMILLAS DOBLES, CUANDO AGREGUES O QUITES UN STEP, TIENES QUE MODIFICARLO ACA, EN EL EJEMPLO DE AGREGAR EL STEP-6, ESE IF SERIA -> "if (idDiv < 8) {" , FIJATE QUE PUSE 8 EN LUGAR DE 7, PARA QUE RECONOZCA LOS 7 STEP AGREGADOS
                                                 TAMBIEN ES IMPORTANTE ES CAMBIAR EL TIPO DE BOTON DEL NEXT, CUANDO QUIERES FINALIZAR EL FORMULARIO, TIENES QUE USAR -> "type='submit'" Y SI QUISIERAS CONTINUAR CON OTRO STEP, TENDRÍA QUE SER -> "type='button'" -->
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-2">
+                                                <!-- <div class="multisteps-form__panel" data-animation="slideHorz" id="step-2">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form mt-4">
@@ -246,8 +246,8 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-3">
+                                                </div> -->
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-2">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form mt-4">
@@ -273,7 +273,7 @@
                                                     </div>
                                                 </div>
                                                 <!--single form panel-->
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-4">
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-3">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form-row mt-4">
@@ -363,7 +363,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-5">
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-4">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form-row mt-4">
@@ -387,7 +387,7 @@
                                                     </div>
                                                 </div>
                                                 <!--single form panel-->
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-6">
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-5">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form mt-4">
@@ -419,7 +419,7 @@
                 </div>
             </div>
             <div class="bckLink">
-                <a href="#">
+                <a href="/">
                     <i aria-hidden="true" class="fa fa-angle-left"></i> Back </a>
             </div>
         </div>

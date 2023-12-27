@@ -317,8 +317,8 @@
             </div>
           </div>
           <div class="button-wrapper">
-            <a href="#" class="button-primary-l w-inline-block">
-              <div class="text-block">Get Pre-Approved Today</div>
+            <a href="/apply" class="button-primary-l w-inline-block">
+              <div class="text-block">Get Pre-Approved Today</div>
             </a>
           </div>
         </div>

@@ -268,7 +268,7 @@ h1,h2,h3,h4,h5,h6,p{margin: 0}
 
 .multisteps-form__progress-btn.js-active {
 
-  color: #007bff;
+  color: #00b877;
 
 }
 
@@ -484,7 +484,7 @@ h1,h2,h3,h4,h5,h6,p{margin: 0}
 
 .form-sec{margin-top: 50px;margin-bottom: 80px;}
 
-.multisteps-form__panel h3{color: #0c5e98;
+.multisteps-form__panel h3{color: #232323;
 
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
@@ -495,7 +495,7 @@ h1,h2,h3,h4,h5,h6,p{margin: 0}
 
 
 
-.multisteps-form__panel h2{color: #0c5e98;
+.multisteps-form__panel h2{color: #232323;
 
     font-family: 'Montserrat', sans-serif;
 
@@ -513,7 +513,7 @@ h1,h2,h3,h4,h5,h6,p{margin: 0}
 
     font-weight: 300;color: #000;padding-bottom: 7px;}
 
-.multisteps-form__panel ul li i{margin-right: 13px;color: #3F52FF}
+.multisteps-form__panel ul li i{margin-right: 13px;color: #00b877}
 
 .multisteps-form__panel ul{margin-bottom: 30px}
 
@@ -661,7 +661,7 @@ span.lght{color: #939393;display: block;
 
 
 
-footer{background: #3F52FF;padding: 8px 0;text-align: center;}
+footer{background: #008711;padding: 8px 0;text-align: center;}
 
 footer p{font-family: 'Montserrat', sans-serif;
 
