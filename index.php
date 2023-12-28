@@ -117,7 +117,7 @@
             </div>
           </div>
           <div id="w-node-_236b4670-440e-fca8-5307-6dc7e1f42727-20af9dde" class="w-layout-cell cell-7">
-            <div id="w-node-c48d4eda-f1cd-59e1-0c7a-1023e1c09507-20af9dde" class="header-image"><img src="images/headeroffermatch.png" loading="lazy" id="w-node-c48d4eda-f1cd-59e1-0c7a-1023e1c09508-20af9dde" sizes="(max-width: 479px) 90vw, 81vw" alt="" srcset="images/headeroffermatch.png 500w, images/headeroffermatch.png 800w, images/headeroffermatch.png 1080w, images/headeroffermatch.png 1200w" class="image-cover"></div>
+            <div id="w-node-c48d4eda-f1cd-59e1-0c7a-1023e1c09507-20af9dde" class="header-image"><img src="images/headeroffermatch.webp" loading="lazy" id="w-node-c48d4eda-f1cd-59e1-0c7a-1023e1c09508-20af9dde" sizes="(max-width: 479px) 90vw, 81vw" alt="" srcset="images/headeroffermatch.webp 500w, images/headeroffermatch.webp 800w, images/headeroffermatch.webp 1080w, images/headeroffermatch.webp 1200w" class="image-cover"></div>
           </div>
         </div>
       </div>
@@ -164,7 +164,7 @@
               </div>
             </div>
           </div>
-          <div id="w-node-_5afab482-d1ec-3b50-95b9-1d6ba2819c80-20af9dde" class="w-layout-cell"><img src="images/Untitled-design-1.png" loading="lazy" id="w-node-f8b8d192-f5fc-deee-e279-e0e7682b5eae-20af9dde" alt="" class="placeholder-image"></div>
+          <div id="w-node-_5afab482-d1ec-3b50-95b9-1d6ba2819c80-20af9dde" class="w-layout-cell"><img src="images/signingLoan.webp" loading="lazy" id="w-node-f8b8d192-f5fc-deee-e279-e0e7682b5eae-20af9dde" alt="" class="placeholder-image"></div>
         </div>
       </div>
     </div>
@@ -327,7 +327,7 @@
         </div>
       </div>
       <div id="w-node-bb88aa99-85d3-4525-db69-cb65d51ff1aa-20af9dde" class="w-layout-cell cell">
-        <div id="w-node-bbb007fd-21d0-e5db-81b0-008505abae66-20af9dde" class="f-content-image-wrapper-large"><img src="images/Untitled-design-2.png" loading="lazy" alt="" class="f-image-cover"></div>
+        <div id="w-node-bbb007fd-21d0-e5db-81b0-008505abae66-20af9dde" class="f-content-image-wrapper-large"><img src="images/signingLoan2.webp" loading="lazy" alt="" class="f-image-cover"></div>
       </div>
     </div>
     <div class="f-container-regular"></div>

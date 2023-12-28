@@ -10,6 +10,8 @@
         <link rel="manifest" href="/images/site.webmanifest">
         <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
         <link rel="shortcut icon" href="/images/favicon.ico">
+
+        <link rel="shortcut icon" href="https://offermatchnow.com/images/favicon.png">
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="msapplication-config" content="/images/browserconfig.xml">
         <meta name="theme-color" content="#ffffff">
