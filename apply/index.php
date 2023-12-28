@@ -548,26 +548,26 @@
                 })
             })
 
-            function checkPhoneValidation(phone) {
-                var isNumberValid = 0;
-                $.ajax({
-                    url: 'checkPhone.php',
-                    method: 'POST',
-                    data: {
-                        phone
-                    },
-                    async: false,
-                    success: function(data) {
-                        console.log(data)
-                        var parseData = JSON.parse(data)
-                        console.log(parseData)
-                        if (parseData.message == 'Phone is valid.') {
-                            isNumberValid = 1
-                        }
-                    }
-                })
-                return isNumberValid
-            }
+            // function checkPhoneValidation(phone) {
+            //     var isNumberValid = 0;
+            //     $.ajax({
+            //         url: 'checkPhone.php',
+            //         method: 'POST',
+            //         data: {
+            //             phone
+            //         },
+            //         async: false,
+            //         success: function(data) {
+            //             console.log(data)
+            //             var parseData = JSON.parse(data)
+            //             console.log(parseData)
+            //             if (parseData.message == 'Phone is valid.') {
+            //                 isNumberValid = 1
+            //             }
+            //         }
+            //     })
+            //     return isNumberValid
+            // }
             $(".multisteps-form__form").submit(function(e) {
                 e.preventDefault()
                 var formData = $(".multisteps-form__form").serialize();
@@ -577,12 +577,12 @@
                 console.log(phone)
                 if (phone.length == 10 && email != "") {
                     var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-                    var checkPhone = checkPhoneValidation(phone)
-                    if (!checkPhone) {
-                        $(".warning").css("display", "block")
-                        $(".warning").html("Please Enter a Valid Phone Number")
-                        return false
-                    }
+                    // var checkPhone = checkPhoneValidation(phone)
+                    // if (!checkPhone) {
+                    //     $(".warning").css("display", "block")
+                    //     $(".warning").html("Please Enter a Valid Phone Number")
+                    //     return false
+                    // }
                     if (emailReg.test(email)) {
                         $(".loading-wrapper").css("display", "flex")
                         formData = formData.replace(/(phone=)[^&]*/, '$1' + phone);
