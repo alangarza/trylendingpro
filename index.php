@@ -117,7 +117,7 @@
             </div>
           </div>
           <div id="w-node-_236b4670-440e-fca8-5307-6dc7e1f42727-20af9dde" class="w-layout-cell cell-7">
-            <div id="w-node-c48d4eda-f1cd-59e1-0c7a-1023e1c09507-20af9dde" class="header-image"><img src="images/headeroffermatch.webp" loading="lazy" id="w-node-c48d4eda-f1cd-59e1-0c7a-1023e1c09508-20af9dde" sizes="(max-width: 479px) 90vw, 81vw" alt="" srcset="images/headeroffermatch.webp 500w, images/headeroffermatch.webp 800w, images/headeroffermatch.webp 1080w, images/headeroffermatch.webp 1200w" class="image-cover"></div>
+            <div id="w-node-c48d4eda-f1cd-59e1-0c7a-1023e1c09507-20af9dde" class="header-image"><img src="images/headeroffermatch.png" loading="lazy" id="w-node-c48d4eda-f1cd-59e1-0c7a-1023e1c09508-20af9dde" sizes="(max-width: 479px) 90vw, 81vw" alt="" srcset="images/headeroffermatch.png 500w, images/headeroffermatch.png 800w, images/headeroffermatch.png 1080w, images/headeroffermatch.png 1200w" class="image-cover"></div>
           </div>
         </div>
       </div>
