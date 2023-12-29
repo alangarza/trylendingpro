@@ -139,7 +139,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-2">
-                        <img class="img-fluid logo" src="images/lendingpro.svg" alt="logo">
+                        <img class="img-fluid logo" src="images/lendingPro.svg" alt="logo">
                     </div>
                     <div class="progressbarMain">
                         <div class="progress-bar-wrapper">

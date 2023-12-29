@@ -31,7 +31,7 @@
 </head>
 <body>
   <section class="section">
-    <div class="w-layout-blockcontainer container w-container"><img src="images/lendingpro.svg" loading="lazy" width="250" alt="" class="image"></div>
+    <div class="w-layout-blockcontainer container w-container"><img src="images/lendingPro.svg" loading="lazy" width="250" alt="" class="image"></div>
   </section>
   <div class="header">
     <section data-w-id="c48d4eda-f1cd-59e1-0c7a-1023e1c094f2" class="header-section">
@@ -592,7 +592,7 @@
     <div class="f-container-large">
       <div class="f-footer-bottom">
         <div class="f-footer-brand">
-          <a href="#" class="f-footer-logo-mark w-inline-block"><img src="images/lendingpro.svg" loading="lazy" alt="" class="f-footer-logo-xs"></a>
+          <a href="#" class="f-footer-logo-mark w-inline-block"><img src="images/lendingPro.svg" loading="lazy" alt="" class="f-footer-logo-xs"></a>
           <div class="f-footer-line"></div>
           <p class="f-footer-detail">Copyright ©2023</p>
         </div>
