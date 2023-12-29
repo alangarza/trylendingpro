@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="css/index.css" type="text/css" />
         <link rel="stylesheet" href="css/custom.css" type="text/css" />
         <link rel="stylesheet" href="css/thank-you.css" type="text/css" />
-        <title>Offermatch</title>
+        <title>Lending Pro</title>
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
         <style type="text/css">
@@ -123,7 +123,7 @@
                 box-sizing: border-box;
                 padding: 40px;
                 border-radius: 12px;
-                background: #008711;
+                background: #70aaf2;
                 -webkit-box-shadow: 0px 20px 48px rgb(0 0 0 / 20%);
                 box-shadow: 0px 20px 48px rgb(0 0 0 / 20%);
                 text-align: center;
@@ -146,12 +146,12 @@
                 font-size: 18px;
                 font-weight: 500;
                 line-height: 1em;
-                fill: #FEB103;
-                color: #FEB103;
-                background-color: #FFFFFF00;
+                fill: #ffffff;
+                color: #70aaf2;
+                background-color: #ffffff;
                 border-style: solid;
                 border-width: 2px 2px 2px 2px;
-                border-color: #FEB103;
+                border-color: #ffffff;
                 border-radius: 30px 30px 30px 30px;
                 padding: 15px 30px;
                 display: table;
@@ -202,7 +202,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-2">
-                        <img class="img-fluid logo" src="images/offermatch.svg" alt="logo">
+                        <img class="img-fluid logo" src="images/lendingPro.svg" alt="logo">
                     </div>
                     <div class="progressbarMain">
                         <div class="progress-bar-wrapper">
