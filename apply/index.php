@@ -19,6 +19,9 @@
         <link rel="stylesheet" href="css/index.css?v=1.10" type="text/css" />
         <link rel="stylesheet" href="css/custom.css" type="text/css" />
         <title>Lending Pro</title>
+        <meta content="Take control of your debt today. Simplify your finances and lower your interest rate." name="description">
+        <meta content="https://radialmx-assets.s3.amazonaws.com/uniclick/lendingproog.png" property="og:image">
+        <meta content="https://radialmx-assets.s3.amazonaws.com/uniclick/lendingproog.png" property="twitter:image">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
         <style type="text/css">
