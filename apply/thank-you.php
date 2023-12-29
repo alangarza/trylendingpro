@@ -177,7 +177,7 @@
                 }
 
                 .progress-bar-wrapper {
-                    font-size: 8px;
+                    font-size: 11px;
                 }
 
                 .progress-bar-label {

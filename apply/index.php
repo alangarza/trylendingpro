@@ -556,7 +556,7 @@
                <div class="mb-2 trustpilot-review">
                   <img alt="5 stars" class="mb-3" src="images/fivestars.svg">
                   <div class="h5">Glad I Made That Call</div>
-                  <p class="caption me-5">I'm glad I made that call to Accredited today. I feel like I can finally breathe again knowing I have my finances under control.</p>
+                  <p class="caption me-5">I'm glad I made that call to Lending Pro today. I feel like I can finally breathe again knowing I have my finances under control.</p>
                   <!-- <a class="d-block text-body text-underline" target="_blank" href="#">See Client’s Review</a> -->
                </div>
             </div>
