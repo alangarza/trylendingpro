@@ -7,6 +7,7 @@ body,html{
 .form-sec{
 	/*min-height: 480px;*/
     min-height: 580px;
+    /* min-height: 100%; */
 }
 .multisteps-form__panel h3{
 	text-align: center;

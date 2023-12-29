@@ -158,7 +158,7 @@
 
                 .progress-bar-label {
                     position: relative;
-                    top: 3px;
+                    top: 0px;
                 }
 
                 .progressbarMain .progress-bar-wrapper {
