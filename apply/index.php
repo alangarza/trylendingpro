@@ -134,6 +134,42 @@
                 .banner_img_area {
                     min-height: auto;
                 }
+
+
+                
+            }
+
+            @media (max-width: 767px) {
+                .banner_img_area {
+                    min-height: auto;
+                }
+
+                .blckBx {
+                    padding: 20px;
+                }
+
+                .blckBx h2 {
+                    font-size: 26px;
+                }
+
+                .progress-bar-wrapper {
+                    font-size: 11px;
+                }
+
+                .progress-bar-label {
+                    position: relative;
+                    top: 3px;
+                }
+
+                .progressbarMain .progress-bar-wrapper {
+                    justify-content: center !important;
+                }
+
+                .circled-number {
+                    width: 15px;
+                    height: 15px;
+                    line-height: 13px;
+                }
             }
         </style>
     </head>
