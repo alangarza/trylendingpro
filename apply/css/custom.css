@@ -13,7 +13,7 @@ body,html{
 }
 .custmHd{
 	padding: 3px 0;
-	border-bottom: 5px solid #00b775;
+	border-bottom: 5px solid #2676f9;
 }
 .logo{
 	height: 50px;
@@ -29,8 +29,8 @@ body,html{
     z-index: 1111;
 }
 .progress-bar-current .circled-number {
-    border-color: #00b877;
-    background-color: #00b877;
+    border-color: #2676f9;
+    background-color: #2676f9;
     color: #fff;
 }
 .circled-number {
@@ -66,7 +66,7 @@ body,html{
 }
 
 .progress-bar-current .progress-bar-label{
-	color: #00b877;
+	color: #2676f9;
 }
 
 
@@ -125,12 +125,12 @@ body,html{
     height: 1rem;
     cursor: pointer;
     animate: 0.2s;
-    background: linear-gradient(90deg, #00b877 var(--range-progress), #dee4ec var(--range-progress));
+    background: linear-gradient(90deg, #2676f9 var(--range-progress), #dee4ec var(--range-progress));
     border-radius: 1rem;
 }
 #range::-webkit-slider-thumb {
     -webkit-appearance: none;
-    border: 0.25rem solid #00b877;
+    border: 0.25rem solid #2676f9;
     box-shadow: 0 1px 3px rgba(0,0,255,.3);
     border-radius: 50%;
     background: #fff;
@@ -337,4 +337,44 @@ body,html{
     .progress-bar-wrapper{
         padding: 10px 10px;
     }
+}
+
+
+@media (max-width: 450px){
+    .bckLink{
+        top: -108px;
+    }
+    .progressbarMain .progress-bar-wrapper{
+        position: relative;
+        left: 0;
+        transform: none;
+        /*justify-content: center;*/
+    }
+    .progressbarMain{
+        display: block;
+        margin-bottom: 14px;
+        padding-bottom: 5px;
+        overflow-x: scroll;
+        /*overflow-y: hidden;*/
+         -ms-overflow-style: none;
+        scrollbar-width: none;
+    scroll-behavior: smooth;
+    width: 100%;
+    }
+    .progressbarMain::-webkit-scrollbar {
+        display: none;
+    }
+    .progressbarMain {
+      -ms-overflow-style: none; 
+      scrollbar-width: none;  
+    }
+    .progress-bar-wrapper{
+        padding: 10px 10px;
+    }
+}
+
+.disclaimerCTA{
+    font-size: 12px;
+    padding-top: 30px;
+    color: #b3b3b3;
 }

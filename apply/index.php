@@ -11,14 +11,14 @@
         <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
         <link rel="shortcut icon" href="/images/favicon.ico">
 
-        <link rel="shortcut icon" href="https://offermatchnow.com/images/favicon.png">
+        <link rel="shortcut icon" href="https://radialmx-assets.s3.amazonaws.com/uniclick/lendingpro-favicon.png">
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="msapplication-config" content="/images/browserconfig.xml">
         <meta name="theme-color" content="#ffffff">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/index.css?v=1.10" type="text/css" />
         <link rel="stylesheet" href="css/custom.css" type="text/css" />
-        <title>Offermatch</title>
+        <title>Lending Pro</title>
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
         <style type="text/css">
@@ -139,7 +139,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-2">
-                        <img class="img-fluid logo" src="images/offermatch.svg" alt="logo">
+                        <img class="img-fluid logo" src="images/lendingpro.svg" alt="logo">
                     </div>
                     <div class="progressbarMain">
                         <div class="progress-bar-wrapper">
@@ -189,9 +189,9 @@
                                                 <div class="multisteps-form__panel    js-active" data-animation="slideHorz" id="step-1">
                                                     <h3 class="multisteps-form__title">Do You Qualify For Debt Consolidation?</h3>
                                                     <ul>
-                                                        <!-- <li style="font-weight: 600;">
+                                                        <li style="font-weight: 600;">
                                                             <i class="fas fa-chevron-right"></i>Must have <span style="color: #0c5e98;">$25,000+ in credit card debt</span> to apply
-                                                        </li> -->
+                                                        </li>
                                                         <li>
                                                             <i class="fas fa-chevron-right"></i>One Low Monthly Payment
                                                         </li>
@@ -201,9 +201,9 @@
                                                         <li>
                                                             <i class="fas fa-chevron-right"></i>No Upfront Fees and No Obligation
                                                         </li>
-                                                        <!-- <li style="color: #ff0000;">
+                                                        <li style="color: #ff0000;">
                                                             <i class="fas fa-chevron-right"></i>Does Not Apply For Car Loans &amp; Student Loans
-                                                        </li> -->
+                                                        </li>
                                                     </ul>
                                                     <div class="multisteps-form__content">
                                                         <div class="form-row mt-4">
@@ -232,7 +232,7 @@
                                                 <!-- COPIA LAS 3 PRIMERAS LINEAS, EL STEP-2 REPRESENTA CUAL PASO ES, Y LO IMPORTANTE ACA ES QUE CAMBIES EL NUMERO, POR EJEMPLO, DIGAMOS QUE QUIERES AGREGAR EL STEP 7, ENTONCES COPIAS ESAS 3 LINEAS Y MODIFICAS EL STEP PARA QUE SEA STEP-7
                                                 EN LA LINEA 490 ESTA EL SIGUIENTE CODIGO -> "if (idDiv < 7) {" , LO PUSE ENTRE COMILLAS DOBLES, CUANDO AGREGUES O QUITES UN STEP, TIENES QUE MODIFICARLO ACA, EN EL EJEMPLO DE AGREGAR EL STEP-6, ESE IF SERIA -> "if (idDiv < 8) {" , FIJATE QUE PUSE 8 EN LUGAR DE 7, PARA QUE RECONOZCA LOS 7 STEP AGREGADOS
                                                 TAMBIEN ES IMPORTANTE ES CAMBIAR EL TIPO DE BOTON DEL NEXT, CUANDO QUIERES FINALIZAR EL FORMULARIO, TIENES QUE USAR -> "type='submit'" Y SI QUISIERAS CONTINUAR CON OTRO STEP, TENDRÍA QUE SER -> "type='button'" -->
-                                                <!-- <div class="multisteps-form__panel" data-animation="slideHorz" id="step-2">
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-2">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form mt-4">
@@ -248,8 +248,8 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div> -->
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-2">
+                                                </div>
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-3">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form mt-4">
@@ -275,7 +275,7 @@
                                                     </div>
                                                 </div>
                                                 <!--single form panel-->
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-3">
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-4">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form-row mt-4">
@@ -365,7 +365,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-4">
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-5">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form-row mt-4">
@@ -389,7 +389,7 @@
                                                     </div>
                                                 </div>
                                                 <!--single form panel-->
-                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-5">
+                                                <div class="multisteps-form__panel" data-animation="slideHorz" id="step-6">
                                                     <h2 class="multisteps-form__title">Consolidate Your Debt And Stress In Less Than 30 Seconds</h2>
                                                     <div class="multisteps-form__content">
                                                         <div class="form mt-4">
@@ -409,6 +409,9 @@
                                                             <button class="btn btn-primary js-btn-prev" type="button" title="Prev">Previous</button>
                                                             <button class="btn btn-primary ml-auto js-btn-next" type="submit" title="Next">Get a Free Quote</button>
                                                         </div>
+                                                        <div>
+                                                            <p class="disclaimerCta" style="margin-top: 30px;">By clicking "Get a Free Quote" above, you consent to our Terms & Conditions and Privacy Policy and consent to receive email and automated calls/texts (standard cellular rates may apply) from Lending Pro and its service providers, including offers and discounts. Consent to such communications is not a condition of any purchase. Data/Msg rates apply. You may unsubscribe any time.</p>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </form>
@@ -425,7 +428,7 @@
                     <i aria-hidden="true" class="fa fa-angle-left"></i> Back </a>
             </div>
         </div>
-        <div class="advert">
+        <!-- <div class="advert">
             <div class="container">
                 <div class="row">
                     <div class="col-md-11 m-auto">
@@ -435,12 +438,122 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
+        <style>
+
+.bg-regal-blue {
+    color: #fff;
+}
+.bg-regal-blue {
+    background: #003b71;
+}
+.bg-regal-blue {
+    color: #fff;
+}
+.bg-regal-blue {
+    background: #003b71;
+}
+.bg-regal-blue {
+    color: #fff;
+}
+.bg-regal-blue {
+    background: #003b71;
+}
+.bg-regal-blue {
+    color: #fff;
+}
+.bg-regal-blue {
+    background: #003b71;
+}
+.bg-regal-blue {
+    color: #fff;
+}
+.bg-regal-blue {
+    background: #003b71;
+}
+.bg-regal-blue {
+    color: #fff;
+}
+.bg-regal-blue {
+    background: #003b71;
+}
+.bg-regal-blue {
+    color: #fff;
+}
+.bg-regal-blue {
+    background: #003b71;
+}
+.pt-4 {
+    padding-top: 1.5rem!important;
+}
+.pt-4, .py-4 {
+    padding-top: 1.5rem!important;
+}
+        </style>
+
+<div class="bg-regal-blue pt-4" data-id="trustpilot-local">
+   <div class="container py-md-3">
+      <div class="row">
+         <div class="col-10 col-md-5 offset-1 offset-md-0 text-center text-md-start">
+            <a class="small text-underline text-white" target="_blank" href="#">
+               <img alt="Excellent - Trustpilot" class="w-100" src="images/tp1.svg">
+               <!-- <div class="d-none d-md-block my-2">See Our Reviews</div> -->
+            </a>
+         </div>
+      </div>
+      <div class="row d-none d-md-flex mt-2 mb-3">
+         <div class="col-6">
+            <div class="bg-white d-flex flex-column h-100 justify-content-between p-4 text-body trustpilot-card">
+               <div class="mb-2 trustpilot-review">
+                  <img alt="5 stars" class="mb-3" src="images/fivestars.svg">
+                  <div class="h5">Best Customer Service Experience Ever!</div>
+                  <p class="caption me-5">I am beyond blown away with the AMAZING experience I was given today. If any company ever needs an example of PERFECT customer service, it should come from this company.</p>
+                  <!-- <a class="d-block text-body text-underline" target="_blank" href="#">See Client’s Review</a> -->
+               </div>
+            </div>
+         </div>
+         <div class="col-6">
+            <div class="bg-white d-flex flex-column h-100 justify-content-between p-4 text-body trustpilot-card">
+               <div class="mb-2 trustpilot-review">
+                  <img alt="5 stars" class="mb-3" src="images/fivestars.svg">
+                  <div class="h5">Glad I Made That Call</div>
+                  <p class="caption me-5">I'm glad I made that call to Accredited today. I feel like I can finally breathe again knowing I have my finances under control.</p>
+                  <!-- <a class="d-block text-body text-underline" target="_blank" href="#">See Client’s Review</a> -->
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="caption d-none d-md-block my-3 text-white">Individual experience may vary.</div>
+      <div class="row pt-4 pt-md-0 pb-4">
+         <div class="col-5 col-md-2 mx-auto mx-md-0"><img alt="BBB Accredited Business A+" class="mw-100" src="images/bbb.png"></div>
+      </div>
+   </div>
+</div>
+<!-- <section class="sec2">
+   <div class="container">
+      <div class="col-lg-9 col-md-12 mx-auto">
+         <div class="row">
+            <div class="col-md-4">
+               <div class="nos">1</div>
+               <p c>Take our quiz to check your eligibility</p>
+            </div>
+            <div class="col-md-4">
+               <div class="nos">2</div>
+               <p>Claim your <b>Free Debt Savings Estimate</b> with a Debt Specialist</p>
+            </div>
+            <div class="col-md-4">
+               <div class="nos">3</div>
+               <p>One step closer to living your life <b>debt-free!</b></p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section> -->
         <footer>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p>Copyright 2023 Offermatch © All Right Reserved</p>
+                        <p>Copyright 2023 Lending Pro © All Right Reserved</p>
                     </div>
                 </div>
             </div>

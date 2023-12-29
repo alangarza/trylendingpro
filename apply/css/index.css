@@ -268,7 +268,7 @@ h1,h2,h3,h4,h5,h6,p{margin: 0}
 
 .multisteps-form__progress-btn.js-active {
 
-  color: #00b877;
+  color: #2676f9;
 
 }
 
@@ -513,7 +513,7 @@ h1,h2,h3,h4,h5,h6,p{margin: 0}
 
     font-weight: 300;color: #000;padding-bottom: 7px;}
 
-.multisteps-form__panel ul li i{margin-right: 13px;color: #00b877}
+.multisteps-form__panel ul li i{margin-right: 13px;color: #2676f9}
 
 .multisteps-form__panel ul{margin-bottom: 30px}
 
@@ -661,7 +661,7 @@ span.lght{color: #939393;display: block;
 
 
 
-footer{background: #008711;padding: 8px 0;text-align: center;}
+footer{background: #2676f9;padding: 8px 0;text-align: center;}
 
 footer p{font-family: 'Montserrat', sans-serif;
 
@@ -884,5 +884,10 @@ footer p{font-family: 'Montserrat', sans-serif;
   }
 }
 
+}
 
-
+.disclaimerCta{
+  font-size: 12px!important;
+  margin-top: 120px!important;
+  color: #b3b3b3;
+}
