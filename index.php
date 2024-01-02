@@ -2,6 +2,7 @@
 <!--  Last Published: Tue Dec 26 2023 19:43:13 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="6585b1091b1445ee20af9dde" data-wf-site="6585b1091b1445ee20af9dda">
 <head>
+
   <meta charset="utf-8">
   <title>Lending Pro</title>
   <meta content="Take control of your debt today. Simplify your finances and lower your interest rate." name="description">
@@ -28,11 +29,13 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="msapplication-config" content="/images/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
+  
 </head>
 <body>
   <section class="section">
     <div class="w-layout-blockcontainer container w-container"><img src="images/lendingPro.svg" loading="lazy" width="250" alt="" class="image"></div>
   </section>
+
   <div class="header">
     <section data-w-id="c48d4eda-f1cd-59e1-0c7a-1023e1c094f2" class="header-section">
       <div class="container-large">
@@ -201,6 +204,7 @@
       </div>
     </div>
   </div>
+  
   <div class="f-section-large">
     <div id="w-node-bb88aa99-85d3-4525-db69-cb65d51ff1a8-20af9dde" class="w-layout-layout quick-stack-4 wf-layout-layout">
       <div id="w-node-bb88aa99-85d3-4525-db69-cb65d51ff1a9-20af9dde" class="w-layout-cell">
@@ -600,17 +604,17 @@
           <div id="w-node-c008d3b3-bc99-79b9-0a13-6f6540175b11-20af9dde" class="f-footer-menu">
             <div id="w-node-_11aa9743-ff98-64c2-aaed-e534d7aff5a4-20af9dde" class="w-layout-layout quick-stack-5 wf-layout-layout">
               <div id="w-node-_0843b031-1452-6e6c-3f43-60476ad31b6b-20af9dde" class="w-layout-cell cell-5">
-                <a href="#" class="f-footer-link w-inline-block">
+                <a href="apply/privacy.php" class="f-footer-link w-inline-block">
                   <div class="text-block-4">Privacy Policy</div>
                 </a>
               </div>
               <div id="w-node-_3c539ed8-dc69-4e71-3cae-a8a7ff605b93-20af9dde" class="w-layout-cell">
-                <a href="#" class="f-footer-link w-inline-block">
+                <a href="apply/terms.php" class="f-footer-link w-inline-block">
                   <div class="text-block-5">Terms &amp; Conditions</div>
                 </a>
               </div>
               <div id="w-node-_51aa7c58-e53e-4d4f-a1a8-2559891b3a23-20af9dde" class="w-layout-cell cell-6">
-                <a href="#" class="f-footer-link w-inline-block">
+                <a href="mailto:support@lendingpro.com" class="f-footer-link w-inline-block">
                   <div class="text-block-6">Contact us</div>
                 </a>
               </div>
