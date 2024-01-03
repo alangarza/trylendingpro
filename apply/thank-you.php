@@ -196,6 +196,15 @@
                 }
             }
         </style>
+
+<script type="text/javascript"
+    src="https://www.undkjs4str.com/scripts/sdk/everflow.js"></script>
+
+<script type="text/javascript">
+EF.conversion({
+    offer_id: 1,
+});
+</script>
     </head>
     <body>
         <header class="custmHd">
