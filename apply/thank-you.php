@@ -245,7 +245,8 @@
 <script type="text/javascript">
 EF.conversion({
     offer_id: 1,
-    event_id: 2,
+    adv_event_id: 1,
+    aid: 1
 });
 </script>
 
