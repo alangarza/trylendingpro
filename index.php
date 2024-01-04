@@ -4,7 +4,7 @@
 <head>
 
   <meta charset="utf-8">
-  <title>Lending Pro2</title>
+  <title>Lending Pro</title>
   <meta content="Take control of your debt today. Simplify your finances and lower your interest rate." name="description">
   <meta content="https://radialmx-assets.s3.amazonaws.com/uniclick/lendingproog.png" property="og:image">
   <meta content="https://radialmx-assets.s3.amazonaws.com/uniclick/lendingproog.png" property="twitter:image">
