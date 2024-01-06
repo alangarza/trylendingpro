@@ -751,6 +751,19 @@ EF.click({
             //     })
             //     return isNumberValid
             // }
+
+            // Helper function to get query parameter value by name.
+                function getParameterByName(name) {
+                    var url = window.location.href;
+                    name = name.replace(/[\[\]]/g, '\\$&');
+                    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                        results = regex.exec(url);
+                    if (!results) return null;
+                    if (!results[2]) return '';
+                    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                }
+
+                
             $(".multisteps-form__form").submit(function(e) {
                 e.preventDefault()
                 var formData = $(".multisteps-form__form").serialize();
