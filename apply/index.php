@@ -645,6 +645,7 @@ EF.click({
                     if (idDiv < 7) {
                         $("#" + par).removeClass("js-active");
                         $("#step-" + idDiv).addClass("js-active");
+                        $('html, body').scrollTop(0);
                     }
                 }
 
