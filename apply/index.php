@@ -491,10 +491,10 @@ EF.click({
                     </div>
                 </div>
             </div>
-            <div class="bckLink">
+            <!-- <div class="bckLink">
                 <a href="/">
                     <i aria-hidden="true" class="fa fa-angle-left"></i> Back </a>
-            </div>
+            </div> -->
         </div>
         <!-- <div class="advert">
             <div class="container">
