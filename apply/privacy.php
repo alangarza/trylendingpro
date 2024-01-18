@@ -591,7 +591,7 @@
                     <div class="panel panel-default">
                         <div class="panel-body">
                             <p>
-                                Call <strong>(800) 756 0862</strong>. Our menu will prompt you through your choice(s) or<br>
+                 
                                 Email us: <strong>support@lendingpro.com</strong><br>
                                 Please note:<br>
                                 If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information  as described in this notice.<br>
@@ -606,7 +606,7 @@
                     <div class="panel panel-default">
                         <div class="panel-body">
                             <p>
-                                Call (800) 756 0862 or<br>
+                            
                                 Email us: support@lendingpro.com<br>
                             </p>
                         </div>
@@ -763,7 +763,7 @@
 
                         <strong>For Nevada Residents</strong>
                         <br>
-                        We are providing you this notice pursuant to state law. You may be placed on our internal “do not call” list by calling (800) 756 0862. Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St. – Suite 3900, Las Vegas, NV
+                        We are providing you this notice pursuant to state law.  Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St. – Suite 3900, Las Vegas, NV
                         89101; 702- 486-3132 – BCPINFO@ag.state.nv.us.
 
                         <br><br>
@@ -800,9 +800,7 @@
                         <br>
                         Reply electronically by contacting us through the Internet at support@lendingpro.com
                         <br>
-                        <strong>Option 2:</strong>
-                        <br>
-                        Call this toll-free number: (800) 756 0862
+           
                     </p>
                 </div>
             </div>
