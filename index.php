@@ -187,7 +187,7 @@
               </div>
             </div>
           </div>
-          <div id="w-node-_5afab482-d1ec-3b50-95b9-1d6ba2819c80-20af9dde" class="w-layout-cell"><img src="images/Untitled-design-1.png" loading="lazy" id="w-node-f8b8d192-f5fc-deee-e279-e0e7682b5eae-20af9dde" alt="" class="placeholder-image"></div>
+          <div id="w-node-_5afab482-d1ec-3b50-95b9-1d6ba2819c80-20af9dde" class="w-layout-cell"><img src="images/signingLoan.webp" loading="lazy" id="w-node-f8b8d192-f5fc-deee-e279-e0e7682b5eae-20af9dde" alt="" class="placeholder-image"></div>
         </div>
       </div>
     </div>
@@ -199,11 +199,11 @@
       </div>
       <div data-delay="4000" data-animation="slide" class="testimonial-slider w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="true" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
         <div class="testimonial-mask w-slider-mask">
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
-          <div class="testimonial-slide w-slide"><img src="images/CleanShot-2023-12-26-at-12.43.122x.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Lewis.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Michele.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Peggy.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Rachel.png" loading="lazy" alt="" class="image-2"></div>
+          <div class="testimonial-slide w-slide"><img src="images/Sylvia.png" loading="lazy" alt="" class="image-2"></div>
         </div>
         <div class="testimonial-left-arrow w-slider-arrow-left">
           <div class="icon-large w-embed"><svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -347,7 +347,7 @@
         </div>
       </div>
       <div id="w-node-bb88aa99-85d3-4525-db69-cb65d51ff1aa-20af9dde" class="w-layout-cell cell">
-        <div id="w-node-bbb007fd-21d0-e5db-81b0-008505abae66-20af9dde" class="f-content-image-wrapper-large"><img src="images/Untitled-design-2.png" loading="lazy" alt="" class="f-image-cover"></div>
+        <div id="w-node-bbb007fd-21d0-e5db-81b0-008505abae66-20af9dde" class="f-content-image-wrapper-large"><img src="images/signingLoan2.webp" loading="lazy" alt="" class="f-image-cover"></div>
       </div>
     </div>
     <div class="f-container-regular"></div>
