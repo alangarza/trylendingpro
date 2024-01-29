@@ -209,6 +209,11 @@ EF.click({
                     <div class="col-md-2">
                         <img class="img-fluid logo" src="images/lendingPro.svg" alt="logo">
                     </div>
+                    <div class="col-md-2 d-block d-sm-none">
+                        <a href="tel:+17605854322">
+                        <img class="img-fluid logo" src="images/phoneBtn.png" alt="logo"></a>
+                    </div>
+                
                     <div class="progressbarMain">
                         <div class="progress-bar-wrapper">
                             <div class="progress-bar-section-wrapper progress-bar-current">
@@ -227,6 +232,7 @@ EF.click({
                             </div>
                         </div>
                     </div>
+                 
                     <!-- <div class="col-md-10 d-flex align-items-center justify-content-center justify-content-md-end"><div id="nav-user-loggedout"><a id="nav-login" class="nav-auth-button hide-mobile" href="#">Login</a><a id="nav-signup" class="nav-auth-button hide-mobile" href="#">Sign Up</a></div></div> -->
                     <button type="button" class="cd-dropdown-trigger show-mobile" aria-label="Navigation">
                         <span class="sr-only">Toggle navigation</span>
